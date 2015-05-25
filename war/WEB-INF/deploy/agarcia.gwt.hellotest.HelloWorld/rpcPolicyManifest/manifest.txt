@@ -1,0 +1,2 @@
+# Module agarcia.gwt.hellotest.HelloWorld
+# RPC service class, partial path of RPC policy file
